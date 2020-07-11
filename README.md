@@ -1,4 +1,4 @@
-# RedNeuronalCrimenEconomia
+# Red Neuronal Crimen Economica
 <h1>Análisis para la elaboración de red neuronal predictiva relacionado en el aumento del crimen con relación a los efectos económicos en la ciudad de México.</h1>
 
 
@@ -11,7 +11,7 @@
 <b>Asesores:</b>
   <ul>
     <li>Mtro. Jaime Gómez Minor</li>
-    <li>Act. Arturo Lopez Sanchez</li>
+    <li>MI. Arturo Lopez Sanchez</li>
     <li>Ing. Juan Ángel Calvillo Pérez</li>
   </ul>
 
