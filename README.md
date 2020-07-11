@@ -6,13 +6,13 @@
 <b>Integrantes:</b>
 <ul>
   <li>Baltazar Miguel Dulce Samantha</li>
-  <li>Espinosa Reyes Rogelio</li>
   <li>Hernández Aguilar Iván</li>
 </ul>
 <b>Asesores:</b>
   <ul>
-    <li>Calvillo Pérez Juan Ángel</li>
-    <li>Gómez Minor Jaime</li>
+    <li>Mtro. Jaime Gómez Minor</li>
+    <li>Act. Arturo Lopez Sanchez</li>
+    <li>Ing. Juan Ángel Calvillo Pérez</li>
   </ul>
 
 
