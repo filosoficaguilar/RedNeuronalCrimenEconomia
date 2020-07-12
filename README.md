@@ -1,4 +1,7 @@
 # Red Neuronal Crimen Economica
+
+Puede leer el documento completo dando click <a href="https://docs.google.com/document/d/e/2PACX-1vQqGhFT0uG4lPsA3te183xlFZ4bTJ6bCeJHiX12FNZ0Eie8SKc2ghewh_ErLmMIyyaHCudl80tR7Sug/pub">aquí</a>
+
 <h1>Análisis para la elaboración de red neuronal predictiva relacionado en el aumento del crimen con relación a los efectos económicos en la ciudad de México.</h1>
 
 
